@@ -1,11 +1,9 @@
 title: Wire a single buzzer
 hero_image: images/banner.png
-description: single-buzzer-wire description
+description: How to wire a single buzzer to a Raspberry Pi Pico
 version: 4
 listed: false
 copyedit: false
 last_tested: "2022-02-15"
 steps:
-  - title: Introduction
-  - title: Step title
-  - title: What next?
+  - title: Wire a single buzzer
