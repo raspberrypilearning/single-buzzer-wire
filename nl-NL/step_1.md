@@ -1,11 +1,11 @@
-You will need:
+Je hebt nodig:
 
-+ A Raspberry Pi Pico
-+ A **passive** tone buzzer
++ Een Raspberry Pi Pico
++ Een **passieve** toon zoemer
 + 2 x socket-socket jumper wires
 
-To wire a single buzzer to a Raspberry Pi Pico, connect the **positive** leg to pin **GP5** and the **negative** leg to the nearest **GND** pin.
+Om een zoemer op een Raspberry Pi Pico aan te sluiten, verbind je de **positieve** poot met pin **GP5** en de **negatieve** poot met de dichtstbijzijnde **GND** pin.
 
-**Tip**: You can identify the positive leg by looking for the longest leg or by finding the side with a **+** sign at the top.
+**Tip**: Je kan het positieve been vinden door te zoeken naar het langste deel of door de zijde te vinden met een **+** teken aan de bovenkant.
 
-![A buzzer attached to a Raspberry Pi Pico.](images/single-buzzer-wiring.png)
+![Een zoemer bevestigd aan een Raspberry Pi Pico.](images/single-buzzer-wiring.png)
