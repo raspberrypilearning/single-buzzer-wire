@@ -1,11 +1,11 @@
-You will need:
+Tu auras besoin de :
 
-+ A Raspberry Pi Pico
-+ A **passive** tone buzzer
-+ 2 x socket-socket jumper wires
++ Un Raspberry Pi Pico
++ Un buzzer **passif**
++ 2 x fils de liaison prise-prise
 
-To wire a single buzzer to a Raspberry Pi Pico, connect the **positive** leg to pin **GP5** and the **negative** leg to the nearest **GND** pin.
+Pour câbler un seul buzzer à un Raspberry Pi Pico, connecte la patte **positive** à la broche **GP5** et la patte **négative** à la broche **GND** la plus proche.
 
-**Tip**: You can identify the positive leg by looking for the longest leg or by finding the side with a **+** sign at the top.
+**Astuce**: Tu peux identifier la patte positive en recherchant la patte la plus longue ou en trouvant le côté avec un signe **+** en haut.
 
-![A buzzer attached to a Raspberry Pi Pico.](images/single-buzzer-wiring.png)
+![Un buzzer attaché à un Raspberry Pi Pico.](images/single-buzzer-wiring.png)
