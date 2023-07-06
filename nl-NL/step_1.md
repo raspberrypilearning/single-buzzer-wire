@@ -2,7 +2,7 @@ Je hebt nodig:
 
 + Een Raspberry Pi Pico
 + Een **passieve** toon zoemer
-+ 2 x socket-socket jumper wires
++ 2 x bus-bus jumperdraden
 
 Om een zoemer op een Raspberry Pi Pico aan te sluiten, verbind je de **positieve** poot met pin **GP5** en de **negatieve** poot met de dichtstbijzijnde **GND** pin.
 
