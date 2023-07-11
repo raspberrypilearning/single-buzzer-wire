@@ -1,0 +1,10 @@
+
+title: Câbler un seul buzzer
+hero_image: images/banner.png
+description: Comment câbler un seul buzzer à un Raspberry Pi Pico
+version: 4
+listed: false
+copyedit: false
+last_tested: "2022-02-15"
+steps:
+  - title: Câbler un seul buzzer
